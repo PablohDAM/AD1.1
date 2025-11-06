@@ -1,0 +1,310 @@
+[
+  {
+    "id_producto": 20,
+    "nombre": "Bufanda 120",
+    "categoriaId": 2,
+    "precio": 567.54,
+    "stock": 3
+  },
+  {
+    "id_producto": 104,
+    "nombre": "Auriculares 836",
+    "categoriaId": 1,
+    "precio": 219.55,
+    "stock": 1
+  },
+  {
+    "id_producto": 175,
+    "nombre": "Aceite 849",
+    "categoriaId": 5,
+    "precio": 59.52,
+    "stock": 4
+  },
+  {
+    "id_producto": 235,
+    "nombre": "Ratón 539",
+    "categoriaId": 3,
+    "precio": 902.38,
+    "stock": 1
+  },
+  {
+    "id_producto": 243,
+    "nombre": "Pasta 203",
+    "categoriaId": 5,
+    "precio": 1452.55,
+    "stock": 8
+  },
+  {
+    "id_producto": 293,
+    "nombre": "Auriculares 888",
+    "categoriaId": 1,
+    "precio": 850.55,
+    "stock": 4
+  },
+  {
+    "id_producto": 362,
+    "nombre": "Patines 113",
+    "categoriaId": 6,
+    "precio": 678.18,
+    "stock": 2
+  },
+  {
+    "id_producto": 365,
+    "nombre": "Smartphone 179",
+    "categoriaId": 1,
+    "precio": 73.7,
+    "stock": 4
+  },
+  {
+    "id_producto": 367,
+    "nombre": "Cinta de correr 825",
+    "categoriaId": 6,
+    "precio": 437.75,
+    "stock": 6
+  },
+  {
+    "id_producto": 378,
+    "nombre": "Coche de juguete 324",
+    "categoriaId": 7,
+    "precio": 619.28,
+    "stock": 3
+  },
+  {
+    "id_producto": 470,
+    "nombre": "Balón 846",
+    "categoriaId": 6,
+    "precio": 876.91,
+    "stock": 3
+  },
+  {
+    "id_producto": 495,
+    "nombre": "Pasta 788",
+    "categoriaId": 5,
+    "precio": 358.78,
+    "stock": 0
+  },
+  {
+    "id_producto": 534,
+    "nombre": "Patines 719",
+    "categoriaId": 6,
+    "precio": 461.02,
+    "stock": 7
+  },
+  {
+    "id_producto": 604,
+    "nombre": "Bufanda 450",
+    "categoriaId": 2,
+    "precio": 462.33,
+    "stock": 8
+  },
+  {
+    "id_producto": 625,
+    "nombre": "Altavoz 113",
+    "categoriaId": 1,
+    "precio": 1227.32,
+    "stock": 5
+  },
+  {
+    "id_producto": 638,
+    "nombre": "Pesas 644",
+    "categoriaId": 6,
+    "precio": 500.15,
+    "stock": 7
+  },
+  {
+    "id_producto": 652,
+    "nombre": "Cómic 832",
+    "categoriaId": 8,
+    "precio": 490.67,
+    "stock": 4
+  },
+  {
+    "id_producto": 659,
+    "nombre": "Silla 839",
+    "categoriaId": 4,
+    "precio": 417.89,
+    "stock": 3
+  },
+  {
+    "id_producto": 823,
+    "nombre": "Muñeca 560",
+    "categoriaId": 7,
+    "precio": 374.0,
+    "stock": 1
+  },
+  {
+    "id_producto": 876,
+    "nombre": "Cama 186",
+    "categoriaId": 4,
+    "precio": 457.02,
+    "stock": 1
+  },
+  {
+    "id_producto": 932,
+    "nombre": "Pesas 373",
+    "categoriaId": 6,
+    "precio": 854.39,
+    "stock": 2
+  },
+  {
+    "id_producto": 978,
+    "nombre": "Televisor 832",
+    "categoriaId": 1,
+    "precio": 302.23,
+    "stock": 1
+  },
+  {
+    "id_producto": 1020,
+    "nombre": "Bufanda 120",
+    "categoriaId": 2,
+    "precio": 567.54,
+    "stock": 3
+  },
+  {
+    "id_producto": 1104,
+    "nombre": "Auriculares 836",
+    "categoriaId": 1,
+    "precio": 219.55,
+    "stock": 1
+  },
+  {
+    "id_producto": 1175,
+    "nombre": "Aceite 849",
+    "categoriaId": 5,
+    "precio": 59.52,
+    "stock": 4
+  },
+  {
+    "id_producto": 1235,
+    "nombre": "Ratón 539",
+    "categoriaId": 3,
+    "precio": 902.38,
+    "stock": 1
+  },
+  {
+    "id_producto": 1243,
+    "nombre": "Pasta 203",
+    "categoriaId": 5,
+    "precio": 1452.55,
+    "stock": 8
+  },
+  {
+    "id_producto": 1293,
+    "nombre": "Auriculares 888",
+    "categoriaId": 1,
+    "precio": 850.55,
+    "stock": 4
+  },
+  {
+    "id_producto": 1362,
+    "nombre": "Patines 113",
+    "categoriaId": 6,
+    "precio": 678.18,
+    "stock": 2
+  },
+  {
+    "id_producto": 1365,
+    "nombre": "Smartphone 179",
+    "categoriaId": 1,
+    "precio": 73.7,
+    "stock": 4
+  },
+  {
+    "id_producto": 1367,
+    "nombre": "Cinta de correr 825",
+    "categoriaId": 6,
+    "precio": 437.75,
+    "stock": 6
+  },
+  {
+    "id_producto": 1378,
+    "nombre": "Coche de juguete 324",
+    "categoriaId": 7,
+    "precio": 619.28,
+    "stock": 3
+  },
+  {
+    "id_producto": 1470,
+    "nombre": "Balón 846",
+    "categoriaId": 6,
+    "precio": 876.91,
+    "stock": 3
+  },
+  {
+    "id_producto": 1495,
+    "nombre": "Pasta 788",
+    "categoriaId": 5,
+    "precio": 358.78,
+    "stock": 0
+  },
+  {
+    "id_producto": 1534,
+    "nombre": "Patines 719",
+    "categoriaId": 6,
+    "precio": 461.02,
+    "stock": 7
+  },
+  {
+    "id_producto": 1604,
+    "nombre": "Bufanda 450",
+    "categoriaId": 2,
+    "precio": 462.33,
+    "stock": 8
+  },
+  {
+    "id_producto": 1625,
+    "nombre": "Altavoz 113",
+    "categoriaId": 1,
+    "precio": 1227.32,
+    "stock": 5
+  },
+  {
+    "id_producto": 1638,
+    "nombre": "Pesas 644",
+    "categoriaId": 6,
+    "precio": 500.15,
+    "stock": 7
+  },
+  {
+    "id_producto": 1652,
+    "nombre": "Cómic 832",
+    "categoriaId": 8,
+    "precio": 490.67,
+    "stock": 4
+  },
+  {
+    "id_producto": 1659,
+    "nombre": "Silla 839",
+    "categoriaId": 4,
+    "precio": 417.89,
+    "stock": 3
+  },
+  {
+    "id_producto": 1823,
+    "nombre": "Muñeca 560",
+    "categoriaId": 7,
+    "precio": 374.0,
+    "stock": 1
+  },
+  {
+    "id_producto": 1876,
+    "nombre": "Cama 186",
+    "categoriaId": 4,
+    "precio": 457.02,
+    "stock": 1
+  },
+  {
+    "id_producto": 1932,
+    "nombre": "Pesas 373",
+    "categoriaId": 6,
+    "precio": 854.39,
+    "stock": 2
+  },
+  {
+    "id_producto": 1978,
+    "nombre": "Televisor 832",
+    "categoriaId": 1,
+    "precio": 302.23,
+    "stock": 1
+  }
+]
